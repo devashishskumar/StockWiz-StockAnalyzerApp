@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StockWiz_prototype</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Dashboard</string>
+    <string name="title_settings">Notifications</string>
+    <string name="favorites">Favorites</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="settings">settings</string>
+    <string name="search_stocks">Search Stocks</string>
+    <string name="stock_list">Stock List</string>
+    <string name="search_hint">Enter the stock you want</string>
+    <string name="stock_symbol">Stock Symbol</string>
+    <string name="user_id">User ID:</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
